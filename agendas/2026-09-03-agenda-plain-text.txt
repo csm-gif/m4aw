@@ -24,20 +24,31 @@ Gaia, Madison, Eileen, Olga / Allan, Chima, Maya, Amandeep
 - Decision needed: approve hours and lock scope.
 
 ============================================================
-02 - FAQ: DAP Shipping Update
+02 - AI Chatbot for FAQ Support
+Full brief: https://docs.google.com/document/d/12M3ChjbD4d-N1DvmRnL6s5uHKPS6MQVobkK5Aeut80E/edit
+- Three options reviewed by our team.
+- Gorgias - built for e-commerce, strong Shopify integration.
+- Gorgias - approx $60/mo at 300 tickets, plus approx $1 per AI-resolved chat.
+- Tidio + Lyro - simplest and cheapest, from approx $24/mo. Budget option.
+- Intercom + Fin - most advanced, $39/seat/mo plus $0.99 per outcome.
+- Our recommendation: Gorgias, best fit for order, shipping and returns.
+- Decision needed: confirm platform before we scope the setup.
+
+============================================================
+03 - FAQ: DAP Shipping Update
 - Going with Option 2, "European Union" changed to "Europe".
 - Copy comes to you for approval, then to the developer.
 - Live copy still says DDP - priority fix.
 
 ============================================================
-03 - Shopify: Payments & HS Codes
+04 - Shopify: Payments & HS Codes
 - Verification deadline: September 23.
 - Self-declaration submitted September 2 - awaiting outcome (Gaia).
 - Fallback plan if it is rejected again.
 - HS code 4602.19.0000 and country of origin - status (Amandeep).
 
 ============================================================
-04 - Website Close-Out
+05 - Website Close-Out
 - Site title fix - confirming it shows correctly on your end (Gaia).
 - Team bios - with the developer, awaiting Olga's job title.
 - Team bios - confirming Lanto vs Rianasoa.
@@ -45,7 +56,7 @@ Gaia, Madison, Eileen, Olga / Allan, Chima, Maya, Amandeep
 - Care guide video - confirming photography instead of video.
 
 ============================================================
-05 - Email Flows & Campaigns
+06 - Email Flows & Campaigns
 - Welcome Flow - email 1 live, emails 2-5 awaiting your approval.
 - Cart Abandonment - design revised, ready for review.
 - Browse Abandonment - copy being revised, design in progress.
@@ -53,7 +64,7 @@ Gaia, Madison, Eileen, Olga / Allan, Chima, Maya, Amandeep
 - Brand Voice Questionnaire - Section 4 still open (Client).
 
 ============================================================
-06 - Paid Ads & Creative
+07 - Paid Ads & Creative
 - New creatives - 80% uploaded, rest to follow (Alex).
 - Ad copy added in Figma and shared with Alex (Maya).
 - More product views, but cost per view up on last period.
@@ -62,21 +73,21 @@ Gaia, Madison, Eileen, Olga / Allan, Chima, Maya, Amandeep
 - Asset collection with Cate - folders now colour-coded by status.
 
 ============================================================
-07 - Analytics & Tracking
+08 - Analytics & Tracking
 - Pixel fix in progress - GA currently reporting 0 purchases.
 - Removing ~1,000 bot sessions inflating US metrics.
 - Shopify collaborator access needed for Stephen.
 - Made-to-order vs ready-to-ship performance split.
 
 ============================================================
-08 - Drop 2 & Drop 3
+09 - Drop 2 & Drop 3
 - Confirming Drop 2 launch date - currently September 20.
 - Drop 2 newsletter and rollout plan in build.
 - Drop 3 (Holiday) - tentative mid-October, still preliminary.
 - Evergreen ad and product strategy across both drops.
 
 ============================================================
-09 - Next Steps
+10 - Next Steps
 - Notion - confirming commenting and tagging now work.
 - Olga to be upgraded from guest to member.
 - Standing call confirmed - Thursdays 4:30pm CET / 7:30am PST.
