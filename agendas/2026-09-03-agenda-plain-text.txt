@@ -1,0 +1,80 @@
+SEP 3, 2026 | WEEKLY MEETING AGENDA
+(paste each block into the matching cell of the duplicated Aug 27 table)
+
+TITLE CELL
+MADE FOR A WOMAN   x   KR8
+Thursday Check-In - Agenda
+
+DATE
+Thursday, September 3, 2026 - 4:30pm CET / 7:30am PST
+
+ATTENDEES
+Gaia, Madison, Eileen, Olga / Allan, Chima, Maya, Amandeep
+(Alex sends apologies - travelling; notes to follow ahead of the call)
+
+============================================================
+01 - Website & Conversion Improvements: Costed Plan
+- Walking through the developer estimate for the CRO recommendations from the August 27 call, priced item by item so you can approve them individually rather than as one block.
+- Proposed phase order: theme standardisation first, then the high-impact CRO items, then trust/content, with localisation last.
+- Phase 1 - Theme standardisation (25-30 hrs): converting hardcoded pages, footer, FAQ and fulfilment copy into proper Shopify sections and blocks, so future content changes can be made from the theme editor without a developer.
+- Phase 2 - High-impact CRO: moving the shipping timeline directly under the Made to Order button on the PDP (4 hrs); "In Stock" / ready-to-ship badge on collection and home (5 hrs).
+- Phase 3 - Trust & content: press/media logo banner, 4-6 logos on home and PDP (6 hrs); finishing the team bios (2 hrs).
+- Phase 4 - Localisation: Italy, France and Spain (22-26 hrs), plus 5-7 hrs feedback fixes and QA across all items.
+- Total requested for approval: 80 hours for the locked scope, covering development, feedback rounds and QA. Estimates may move roughly 10% either way depending on final Figma, content readiness and feedback rounds.
+- Assumptions to confirm with you: Italian, French and Spanish translations supplied by MADE; press banner logo files supplied by MADE; a paid translation app (~$29/month) as an alternative to Shopify's free Translate & Adapt.
+- Our developer's recommendation: keep all theme-related work with a single developer to avoid inconsistent code, duplicated work and rework.
+- Decision needed: approve the hours, lock the requirement list, and agree the phase order so work can start.
+
+============================================================
+02 - FAQ: DAP Shipping Update
+- Confirming the direction you selected: the split version (separate shipping and customs questions), with "European Union" replaced by "Europe".
+- Revised copy comes to you for approval first, then straight to the developer for implementation - we know this is the priority item, as the live copy currently states the opposite (DDP).
+- Confirming nothing else in the shipping or checkout copy needs to change alongside it.
+
+============================================================
+03 - Shopify: Payments Verification & HS Codes
+- Status on the Shopify Payments business-details verification. Deadline is September 23. Submissions to date have been rejected; Shopify asked for attested proof that Eileen is the owner, and you submitted a self-declaration on September 2 - awaiting the outcome.
+- Agreeing a fallback if that submission is also rejected, so we are not up against the deadline.
+- HS code 4602.19.0000 and country of origin in the Shopify settings - status update from Amandeep.
+
+============================================================
+04 - Website Close-Out
+- Site title now displaying as "Made For A Woman" - confirming it looks right on your end.
+- Team bios - shortened versions plus Olga's are with the developer. Two clarifications needed from you before they go live: Olga's job title, and the correct name between Lanto and Rianasoa.
+- Care Guide - thank you for the comments on Figma. Maya is working through them and will come back on anything that needs clarifying.
+- Care guide video - confirming the approach, as the plan has been to use photography rather than video.
+
+============================================================
+05 - Email Flows & Campaigns
+- Welcome Flow - email 1 is live; emails 2-5 are with you for design approval before the build continues.
+- Cart Abandonment - design revised from Maya's notes and ready for review.
+- Browse Abandonment - copy being revised using your flow notes and questionnaire answers; design in progress.
+- 8-week campaign programme - designs in progress; still awaiting your review of the concepts and copy.
+- Brand Voice Questionnaire - Section 4 (Speaking For Each Piece) is the last section outstanding.
+
+============================================================
+06 - Paid Ads & Creative
+- New creatives: roughly 80% now uploaded into a new adset, with the remainder to follow. Ad copy for every creative has been added in Figma and shared with Alex.
+- Early read from Alex: more product views overall, but the cost per product view is higher than the previous period - either rising CPMs, or traffic landing on the collection page and progressing to the product page less often than from the homepage.
+- Changes made since August 27: European adset duplicated to test the collection page as the landing destination, US budget split for an A/B test, and the US Broad campaign paused.
+- Asset collection with Cate - folders now organised by deck page number, with colour coding to show what is complete, partial or missing.
+
+============================================================
+07 - Analytics & Tracking
+- Pixel configuration fix - the error causing Google Analytics to report 0 purchases is being corrected so reporting is accurate going forward.
+- Filtering out roughly 1,000 bot sessions inflating US engagement metrics, so the US figures reflect real user behaviour.
+- Shopify collaborator access for Stephen, so purchase data can be reconciled against Google Analytics and Meta.
+- Analysis underway on the performance split between made-to-order and ready-to-ship items, which feeds the ready-to-ship recommendation.
+
+============================================================
+08 - Drop 2 & Drop 3
+- Confirming the Drop 2 launch date - currently targeting September 20.
+- Drop 2 newsletter and rollout plan in build: tease timeline, early access approach and creative rollout.
+- Drop 3 (Holiday) - early planning, tentative mid-October, exploring a holiday version of the Bombe, icon-focused. Still preliminary.
+- Aligning on the evergreen ad and product strategy running across both drops.
+
+============================================================
+09 - Next Steps & Housekeeping
+- Notion - comment access was enabled across your portal on September 1. Confirming that commenting and tagging now work for Gaia, Madison and Olga, and picking up Olga's request to be a member rather than a guest.
+- Standing call - confirmed at 7:30am PST / 4:30pm CET on Thursdays; calendar invite updated.
+- Confirming owners and dates on everything agreed today, and any final items before end of week.
