@@ -1,4 +1,4 @@
-SEP 3, 2026 | WEEKLY MEETING AGENDA  (FINAL - audited 3 Sep)
+SEP 3, 2026 | WEEKLY MEETING AGENDA  (FINAL v2 - audited 3 Sep, 2:00pm CET)
 (paste each block into the matching cell of the duplicated Aug 27 table)
 
 TITLE CELL
@@ -68,19 +68,21 @@ Full brief: https://docs.google.com/document/d/12M3ChjbD4d-N1DvmRnL6s5uHKPS6MQVo
 
 ============================================================
 07 - Email Flows & Campaigns
-- Welcome Flow - email 1 live, emails 2-5 awaiting your approval.
-- Cart Abandonment - design revised, ready for review.
+- Your Aug 24 notes were not carried into Welcome or Cart flows - sorry.
+- Rejected line ("artisan waiting for the word") was still in the copy.
+- Both flows reopened today, revisions underway now (Maya).
 - Browse Abandonment - copy being revised, design in progress.
 - 8 campaigns - designs in progress, still awaiting your review.
-- Brand Voice Questionnaire - Section 4 still open (Client).
+- Brand Voice Questionnaire - now complete, thank you (Client).
 
 ============================================================
-08 - Paid Ads & Creative
-- New creatives - 80% uploaded, rest to follow (Alex).
+08 - Paid Ads & Creative  (notes from Alex - unable to attend)
+- A/B test: collection page vs homepage as landing destination.
+- Early read: CPM and CPC up, CTR down - still gathering data.
+- New 20-creative batch live; CTR soft, may relaunch this weekend.
+- Add-to-cart is trending down - watching if this is seasonal.
+- Sept 2 sale came via Google, not paid social.
 - Ad copy added in Figma and shared with Alex (Maya).
-- More product views, but cost per view up on last period.
-- Testing collection page as landing destination in Europe.
-- US budget split for A/B test; US Broad paused.
 - Asset collection with Cate - folders now colour-coded by status.
 
 ============================================================
