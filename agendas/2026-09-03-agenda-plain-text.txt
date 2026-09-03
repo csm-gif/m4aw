@@ -1,4 +1,4 @@
-SEP 3, 2026 | WEEKLY MEETING AGENDA
+SEP 3, 2026 | WEEKLY MEETING AGENDA  (FINAL - audited 3 Sep)
 (paste each block into the matching cell of the duplicated Aug 27 table)
 
 TITLE CELL
@@ -35,17 +35,20 @@ Full brief: https://docs.google.com/document/d/12M3ChjbD4d-N1DvmRnL6s5uHKPS6MQVo
 - Decision needed: confirm platform before we scope the setup.
 
 ============================================================
-03 - FAQ: DAP Shipping Update
-- Going with Option 2, "European Union" changed to "Europe".
-- Copy comes to you for approval, then to the developer.
-- Live copy still says DDP - priority fix.
+03 - FAQ: Shipping Update - NOW LIVE
+- New shipping and customs copy is live on the FAQ page.
+- Outside Europe - DDP, we cover all customs fees and taxes.
+- Inside Europe - local VAT to the carrier, no customs duty expected.
+- Checked: no conflicting DDP wording on shipping or product pages.
+- Pushed live same day as customers were seeing incorrect information.
+- Please review the live page and tell us if any wording needs changing.
 
 ============================================================
 04 - Shopify: Payments & HS Codes
 - Verification deadline: September 23.
 - Self-declaration submitted September 2 - awaiting outcome (Gaia).
 - Fallback plan if it is rejected again.
-- HS code 4602.19.0000 and country of origin - status (Amandeep).
+- HS code 4602.19.0000 and country of origin - still to be added (Amandeep).
 
 ============================================================
 05 - Website Close-Out
@@ -56,7 +59,15 @@ Full brief: https://docs.google.com/document/d/12M3ChjbD4d-N1DvmRnL6s5uHKPS6MQVo
 - Care guide video - confirming photography instead of video.
 
 ============================================================
-06 - Email Flows & Campaigns
+06 - Action Items for MADE
+- Product videos - please upload to all products where one exists.
+- Press placements - full list needed for the press banner.
+- Press page - share a layout reference, or we will propose one.
+- Free shipping threshold - please approve 499.
+- Klarna / BNPL - confirm whether you approach them or we do.
+
+============================================================
+07 - Email Flows & Campaigns
 - Welcome Flow - email 1 live, emails 2-5 awaiting your approval.
 - Cart Abandonment - design revised, ready for review.
 - Browse Abandonment - copy being revised, design in progress.
@@ -64,7 +75,7 @@ Full brief: https://docs.google.com/document/d/12M3ChjbD4d-N1DvmRnL6s5uHKPS6MQVo
 - Brand Voice Questionnaire - Section 4 still open (Client).
 
 ============================================================
-07 - Paid Ads & Creative
+08 - Paid Ads & Creative
 - New creatives - 80% uploaded, rest to follow (Alex).
 - Ad copy added in Figma and shared with Alex (Maya).
 - More product views, but cost per view up on last period.
@@ -73,21 +84,21 @@ Full brief: https://docs.google.com/document/d/12M3ChjbD4d-N1DvmRnL6s5uHKPS6MQVo
 - Asset collection with Cate - folders now colour-coded by status.
 
 ============================================================
-08 - Analytics & Tracking
+09 - Analytics & Tracking
 - Pixel fix in progress - GA currently reporting 0 purchases.
-- Removing ~1,000 bot sessions inflating US metrics.
+- Removing approx 1,000 bot sessions inflating US metrics.
 - Shopify collaborator access needed for Stephen.
 - Made-to-order vs ready-to-ship performance split.
 
 ============================================================
-09 - Drop 2 & Drop 3
+10 - Drop 2 & Drop 3
 - Confirming Drop 2 launch date - currently September 20.
 - Drop 2 newsletter and rollout plan in build.
 - Drop 3 (Holiday) - tentative mid-October, still preliminary.
 - Evergreen ad and product strategy across both drops.
 
 ============================================================
-10 - Next Steps
+11 - Next Steps
 - Notion - confirming commenting and tagging now work.
 - Olga to be upgraded from guest to member.
 - Standing call confirmed - Thursdays 4:30pm CET / 7:30am PST.
