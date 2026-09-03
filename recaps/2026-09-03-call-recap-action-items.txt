@@ -1,0 +1,33 @@
+Made For A Woman × KR8 — Recap | September 3
+
+Thanks for the call today. Here's everything captured, with owners and dates.
+
+RESOLVED ON THE CALL
+- FAQ shipping/customs copy — confirmed live and correct (Gaia).
+- HS code — added to Shopify (Amandeep).
+- Chima is our single point of contact going forward. Maya supports him.
+- Comms going forward: Notion for task tracking, Slack for exceptions only.
+- Future meetings will open with a review of last week's action items.
+
+KR8 — ACTION ITEMS
+- Update the dev quote: link each item to the funnel pain point it fixes. Due: tomorrow (Fri) evening. Owner: Alex.
+- Add localization rationale — why prioritize EU when 90% of sales are outside it. Due: same, tomorrow evening. Owner: Alex.
+- Add a returns option for defective bags (repair + free return) to the proposal. Due: same, tomorrow evening. Owner: Alex.
+- Add a checkout-stage prompt flagging EU customs/import fees. Due: same, tomorrow evening. Owner: Alex.
+- Fix Olga's and Gaia's Notion access — full member, not guest. Due: check tomorrow (Fri) morning. Owner: Maya.
+- Fix "no access" error on the email campaigns doc link in Notion. Due: with the above. Owner: Maya.
+- Restore and finalize team bios doc. Olga's title confirmed: Strategy and Innovation Director. Still confirming Rianasoa's bio. Due: today/tomorrow (Fri) latest. Owner: Maya.
+- Update Care Guide page per Figma notes. Due: Monday morning. Owner: Maya.
+- Confirm product video scope with Alex (which products, which pages). Due: today. Owner: Maya.
+- Implement Aug 24 client notes on Welcome and Cart Abandonment flows, and update campaign copy using the brand questionnaire. Due: today, in progress. Owner: Maya.
+- Update stock status: Pink Bombé and Rainbow XL should show "Ready to Ship," not "Made to Order." Green Bombé is sold out. Due: tomorrow (Fri). Owner: Maya + developer.
+- Research Klarna/BNPL alternatives — Klarna is not available in Estonia. Due: estimate by tomorrow (Fri) morning. Owner: Maya.
+- Share a timeline for the GA pixel fix. Due: with this recap. Owner: Chima.
+
+MADE — ACTION ITEMS
+- Confirm internally on the AI chatbot recommendation (Gorgias) before we scope setup. Owner: Olga.
+- Confirm free shipping threshold change (750 to 499) is feasible on margin. Due: Tuesday. Owner: Olga.
+- Confirm Drop 3 launch date internally, aligned with the Madagascar team. Due: Tuesday. Owner: Olga.
+- Share full press placement list and preferred page layout, or confirm KR8 should propose one. Due: next few days. Owner: Gaia/Madison.
+
+Let us know if anything above needs correcting. Talk soon!
