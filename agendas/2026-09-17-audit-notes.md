@@ -79,3 +79,14 @@ stays at 5.
 Kept out of 01 deliberately: closed items with no client consequence, and our
 internal slippage history — overdue items give the delivery date only
 ("was due Friday 11th. With you today"), not the reason.
+
+## Revision 3 — owners added to open actions
+
+Owners appended to both open blocks in 01, per the Sep 3 agenda's inline
+convention. Sourced from the 10 Sept recap: press page, video spec and BNPL are
+Maya's; GA4 is Stephen's. Client-side owners taken from the same recap
+(Care Guide designs — Madison with Gaia; press coverage — Gaia / Madison; Drop 2
+upload and customer measurements — Gaia).
+
+GA4 wording changed to "fix date to be confirmed after this call", so section 05
+was corrected to match — it previously promised the date on the call.

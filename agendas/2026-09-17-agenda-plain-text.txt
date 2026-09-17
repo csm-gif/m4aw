@@ -19,16 +19,16 @@ Closed
 - Ready to Ship vs Made to Order — confirmed working, driven by your inventory.
 - Cart Abandonment flow — three emails now built in Klaviyo.
 Open — KR8
-- Press page layout — was due Friday 11th. With you today.
-- Product video format spec — with you today; it is what blocks your uploads.
-- BNPL options for an Estonia-based merchant — answer on this call.
-- GA4 purchase tracking — ticket open with Google, firm fix date on this call.
+- Press page layout — will be submitted to you today. (Maya)
+- Product video format spec — to be done today. (Maya)
+- BNPL options for an Estonia-based merchant — answer on this call. (Maya)
+- GA4 purchase tracking — ticket open with Google; fix date to be confirmed after this call. (Stephen)
 Open — MADE
-- 8 weeks of campaign copy — designs follow your sign-off.
-- Care Guide and email flow designs — on Notion.
-- Drop 2 products uploaded to Shopify.
-- Press coverage list, once you have seen the layout.
-- Measurements from the Fleur dress customer.
+- 8 weeks of campaign copy — designs follow your sign-off. (Gaia / Madison)
+- Care Guide and email flow designs — on Notion. (Madison / Gaia)
+- Drop 2 products uploaded to Shopify. (Gaia)
+- Press coverage list, once you have seen the layout. (Gaia / Madison)
+- Measurements from the Fleur dress customer. (Gaia)
 
 ============================================================
 02 — Performance
@@ -59,6 +59,7 @@ Open — MADE
 ============================================================
 05 — Next Steps — Owners & Dates
 - Release 1 start dates confirmed before we close.
-- Everything owed to you above — press page, video spec, BNPL, GA4 date — today.
+- Press page layout, video spec and BNPL answer — today. (Maya)
+- GA4 fix date — confirmed to you after this call. (Stephen)
 - Localisation links this week, Italian walk first.
 - Recap with owners and dates in Notion and Slack today.
