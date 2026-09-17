@@ -42,3 +42,26 @@ our own tracking currently says:
    10 Sep was to a different question (moving European budget $30→$50/day).
 5. **GA4 is the gate on spend.** Gaia has made scaling conditional on it. The
    promised fix was "end of next week at the latest" from 10 Sep — i.e. now.
+
+---
+
+## Revision — trimmed to 5 sections
+
+Cut from 11 sections / ~70 lines to 5 / 29. Nothing factual changed; the audit
+above still stands. What came out, and why:
+
+- **Last Week's Actions — Status.** The whole section. Its live items now sit in
+  02, 03 and 04 with current status attached; the rest was our internal chase
+  list. Overdue items we owe Gaia (press page, video spec, BNPL) appear in 04 and
+  05 as "with you today" — she needs the delivery date, not our slippage history.
+- **Paid ads restructure.** Alex's five-step consolidation plan is operational
+  detail. Removed entirely — still needs Allan's answer internally.
+- **Email flow granularity.** Welcome email 1 live / 2–5 pending, Klaviyo build
+  state, Browse Abandonment design progress. Replaced by one line in 04 on what
+  is actually waiting on her.
+- **Free shipping threshold (€450).** Her own decision, nothing needed from us.
+  Raise verbally if she does.
+- **Closed and settled items** — Ready to Ship vs Made to Order, checkout customs
+  prompt, bot traffic clearance, the "this snapshot becomes a standing item" note,
+  Release 1 broken into four separate bullets.
+- **Venice attendance note.** Internal context, not hers to read.

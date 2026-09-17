@@ -10,118 +10,47 @@ Thursday, September 17, 2026 — 4:30pm CET / 7:30am PST
 
 ATTENDEES
 Gaia, Olga, Eileen, Madison / Allan, Chima, Maya, Amandeep, Alex
-(MADE team in Venice this week for Homo Faber and the Biennale — attendance may be light)
 
 ============================================================
-01 — Performance Snapshot
-- Last confirmed read, week to Tuesday: $305 spend, ~$1,100 revenue.
-- Prior fortnight for contrast: ~$1,000 spend, $557 revenue.
-- Creative refresh is working — sales back to roughly every other day.
-- Europe paused — 8,600 clicks over 14 days, 1 add to cart, no sales. Budget moved to US.
-- Repeat customer bought the Fleur dress (~$1,800) inside a 30-day window.
-- This week's figures given live on the call — Alex and Stephen.
-- From next week this snapshot opens every agenda as a standing item.
+01 — Performance
+- Week to Tuesday: $305 spend, ~$1,100 revenue. Prior fortnight: ~$1,000 spend, $557 revenue.
+- The creative refresh is working — sales back to roughly every other day.
+- Europe paused: 8,600 clicks, 1 add to cart, no sales. Budget moved to the US.
+- A repeat customer bought the Fleur dress (~$1,800) inside 30 days.
+- GA4 still reporting 0 purchases — tracking configuration, not lost sales. Firm fix date on this call.
+- We are not scaling spend until that data is clean.
 
 ============================================================
-02 — Last Week's Actions — Status
-Closed
-- Drop 2 date — confirmed 29 September by your team, aligned to the Icons restock.
-- Drop 3 — targeting W47, 16–20 November, the week before Black Friday.
-- Free shipping threshold — you have set the test at €450.
-- Ready to Ship vs Made to Order — confirmed working, driven by your inventory.
-- Cart Abandonment flow — three emails now built in Klaviyo.
-Open — KR8
-- Press page layout and inspo — was due Friday 11 Sept and did not go. Sending today (Maya).
-- Product video format spec — not sent; it is what blocks your uploads (Maya).
-- BNPL available to an Estonia-based merchant — answer on this call (Maya).
-- Localisation review links, so your team can check each language (Allan).
-- GA4 purchase tracking — ticket open with Google (Stephen).
-- Checkout-stage customs prompt — status owed to you (Maya + Allan).
-Open — MADE
-- Drop 2 products uploaded to Shopify (Gaia).
-- 8 weeks of campaign copy — still with you for review.
-- Care Guide and email flow designs on Notion — still awaiting review (Madison / Gaia).
-- Press coverage list — follows once you have seen the layout.
-- Precise measurements from the Fleur dress customer (Gaia).
+02 — Website & CRO — Confirmed
+- Your 14 Sept feedback is the plan. The checkout fixes come first and ship as one release.
+- Release 1: made-to-order timeline unmissable, shipping costs shown earlier, in stock vs made to order clearly split, stock and checkout sync verified.
+- Next: PDP storytelling — process, video, UGC and press proof.
+- Localisation: the Italian checkout walk first, then the translation to you for tone review before anything goes live.
+- Chat assistant: parked. We make the FAQ and contact routes unmissable instead.
+- Klarna and BNPL: ours to solve, not yours. Options and approval lead times back to you.
+- Decision needed: confirm Release 1 so we lock start dates today.
 
 ============================================================
-03 — CRO Scope — Your Feedback, Confirmed
-- Your 14 Sept email landed — this call is our answer to it.
-- Agreed: the checkout fixes come first, and ship as one release.
-- Release 1 — the 4–6 week made-to-order timeline made unmissable on the PDP.
-- Release 1 — shipping costs shown earlier, on the PDP and in the slide cart.
-- Release 1 — in stock vs made to order clearly split, In Stock banner on Icons.
-- Release 1 — stock and checkout sync verified before anything ships.
-- Next — PDP storytelling: handmade process, video, UGC and press proof.
-- Press proof at the decision point and the BNPL applications sit in Release 2.
-- Decision needed: confirm Release 1 scope so we lock start dates before we close.
-
-============================================================
-04 — Localisation — Italian Validation First
-- Agreed — the Italian checkout walk happens before we commit to three languages.
-- It tells us whether the stronger Italian performance is localisation or something else.
-- The machine translation comes to you for tone review before anything goes live.
-- This defers the localisation portion of the quote until the walk confirms the hypothesis.
-- Review links to you this week (Allan).
-
-============================================================
-05 — GA4 Tracking — Before We Scale
-- Agreed: we will not push more acquisition on unreliable data.
-- GA still reporting 0 purchases — pixel configuration, not lost sales.
-- Ticket open with Google; the API keeps unlinking (Stephen).
-- The fix was expected this week — status and a firm date on this call.
-- Also clearing ~1,000 bot sessions inflating the US metrics.
-- We confirm in writing the moment the funnel is clean.
-
-============================================================
-06 — Payments & BNPL
-- The Klarna question is ours to solve, not yours.
-- You cannot see Klarna in the Shopify backend; Allan sees both options in his view.
-- Most likely a regional availability difference for an Estonia-based merchant — confirming.
-- PayPal is not available to you from Estonia — understood and closed.
-- We come back with what is genuinely available, and the approval lead times.
-
-============================================================
-07 — Chat Assistant — Parked
-- Understood — not a priority at current question volume.
-- Gorgias setup, logins and the demo call come off this week's list.
-- Instead we make the FAQ and the human contact routes unmissable.
-- We revisit once there is enough customer question data to justify it.
-
-============================================================
-08 — Email Flows & Campaigns
-- Welcome flow — email 1 live; emails 2 to 5 waiting on design approval.
-- Cart Abandonment — three emails built in Klaviyo, design ready for your review.
-- Browse Abandonment — copy finalised, design in progress.
-- 8 weeks of campaign copy — with you for review, designs following behind it.
-- Needed from you: copy and flow design sign-off so we can close these out.
-
-============================================================
-09 — Paid Ads & Creative
-- Proposal from Alex: narrow to the winning creatives rather than run everything thin.
-- Pause the collection-page adset — it is not outselling the others.
-- Move that budget across to the original batch.
-- Retire ads past roughly 2,000 impressions that read badly on CTR and CPM.
-- Land on 5 to 7 winners, then test pages and audiences properly.
-- This closes the homepage vs collection page test out as inconclusive.
-- Creative direction for the Drop 2 shoot comes off this week's read.
-
-============================================================
-10 — Drop 2, Drop 3 & Restock
-- Drop 2 — 29 September, confirmed, aligned to the Icons restock.
-- Drop 3 — W47, 16 to 20 November, ahead of Black Friday.
-- Drop 3 carries the classics in stock plus a wintry party collection.
+03 — Drops & Restock
+- Drop 2 — 29 September, aligned to the Icons restock.
+- Drop 3 — W47, 16 to 20 November, ahead of Black Friday. Classics in stock plus a wintry party collection.
+- Restock runs in parallel with Drop 2: two units each of Green Bombé, Fuchsia Bombé, Rainbow XL, plus Drop 2 colours.
 - Accessories lead time down from 4 weeks to 3.
-- Restock in parallel with Drop 2 — two units each of Green Bombé, Fuchsia Bombé, Rainbow XL, plus Drop 2 colours.
-- Drop 2 newsletter and rollout plan in build (Maya).
-- Drop 2 release messaging with Madison this week.
-- Needed from you: Drop 2 products uploaded to Shopify.
+- Drop 2 newsletter and rollout plan in build.
 
 ============================================================
-11 — Next Steps — Owners & Dates
-- Release 1 — start dates confirmed before we close today.
-- Press page layout, product video spec and the BNPL answer — all today (Maya).
-- GA4 — firm completion date given on this call (Stephen).
-- Localisation links this week, Italian walk first (Allan).
-- Ads consolidation — confirmed with Alex today.
-- Recap with owners and dates in Notion and Slack the same day.
+04 — With You for Review
+- 8 weeks of campaign copy — designs follow your sign-off.
+- Care Guide and email flow designs — on Notion.
+- Press page layout — with you today; coverage list from you after.
+- Product video format spec — with you today, then uploads can start.
+- Drop 2 products uploaded to Shopify.
+- Measurements from the Fleur dress customer.
+
+============================================================
+05 — Next Steps — Owners & Dates
+- Release 1 start dates confirmed before we close.
+- GA4 completion date confirmed on this call.
+- Press page layout, video spec and BNPL answer — today.
+- Localisation links this week, Italian walk first.
+- Recap with owners and dates in Notion and Slack today.
