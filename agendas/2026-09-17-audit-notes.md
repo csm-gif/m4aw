@@ -65,3 +65,17 @@ above still stands. What came out, and why:
   prompt, bot traffic clearance, the "this snapshot becomes a standing item" note,
   Release 1 broken into four separate bullets.
 - **Venice attendance note.** Internal context, not hers to read.
+
+## Revision 2 — Last Week's Actions restored
+
+Removing it was wrong: opening the call with last week's actions and their status
+is a standing agreement with the client, set on the 3 Sept call. Restored as 01,
+trimmed to 13 lines (Sep 10's ran to 20).
+
+To keep it from re-introducing noise, the separate "With You for Review" section
+was folded into it as **Open — MADE**, so each item is stated once. Section count
+stays at 5.
+
+Kept out of 01 deliberately: closed items with no client consequence, and our
+internal slippage history — overdue items give the delivery date only
+("was due Friday 11th. With you today"), not the reason.

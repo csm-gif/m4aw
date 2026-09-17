@@ -12,16 +12,34 @@ ATTENDEES
 Gaia, Olga, Eileen, Madison / Allan, Chima, Maya, Amandeep, Alex
 
 ============================================================
-01 — Performance
+01 — Last Week's Actions — Status
+Closed
+- Drop 2 and Drop 3 dates — confirmed by your team. Detail below.
+- Free shipping threshold — your €450 test noted.
+- Ready to Ship vs Made to Order — confirmed working, driven by your inventory.
+- Cart Abandonment flow — three emails now built in Klaviyo.
+Open — KR8
+- Press page layout — was due Friday 11th. With you today.
+- Product video format spec — with you today; it is what blocks your uploads.
+- BNPL options for an Estonia-based merchant — answer on this call.
+- GA4 purchase tracking — ticket open with Google, firm fix date on this call.
+Open — MADE
+- 8 weeks of campaign copy — designs follow your sign-off.
+- Care Guide and email flow designs — on Notion.
+- Drop 2 products uploaded to Shopify.
+- Press coverage list, once you have seen the layout.
+- Measurements from the Fleur dress customer.
+
+============================================================
+02 — Performance
 - Week to Tuesday: $305 spend, ~$1,100 revenue. Prior fortnight: ~$1,000 spend, $557 revenue.
 - The creative refresh is working — sales back to roughly every other day.
 - Europe paused: 8,600 clicks, 1 add to cart, no sales. Budget moved to the US.
 - A repeat customer bought the Fleur dress (~$1,800) inside 30 days.
-- GA4 still reporting 0 purchases — tracking configuration, not lost sales. Firm fix date on this call.
-- We are not scaling spend until that data is clean.
+- We are not scaling spend until the GA4 data is clean.
 
 ============================================================
-02 — Website & CRO — Confirmed
+03 — Website & CRO — Confirmed
 - Your 14 Sept feedback is the plan. The checkout fixes come first and ship as one release.
 - Release 1: made-to-order timeline unmissable, shipping costs shown earlier, in stock vs made to order clearly split, stock and checkout sync verified.
 - Next: PDP storytelling — process, video, UGC and press proof.
@@ -31,7 +49,7 @@ Gaia, Olga, Eileen, Madison / Allan, Chima, Maya, Amandeep, Alex
 - Decision needed: confirm Release 1 so we lock start dates today.
 
 ============================================================
-03 — Drops & Restock
+04 — Drops & Restock
 - Drop 2 — 29 September, aligned to the Icons restock.
 - Drop 3 — W47, 16 to 20 November, ahead of Black Friday. Classics in stock plus a wintry party collection.
 - Restock runs in parallel with Drop 2: two units each of Green Bombé, Fuchsia Bombé, Rainbow XL, plus Drop 2 colours.
@@ -39,18 +57,8 @@ Gaia, Olga, Eileen, Madison / Allan, Chima, Maya, Amandeep, Alex
 - Drop 2 newsletter and rollout plan in build.
 
 ============================================================
-04 — With You for Review
-- 8 weeks of campaign copy — designs follow your sign-off.
-- Care Guide and email flow designs — on Notion.
-- Press page layout — with you today; coverage list from you after.
-- Product video format spec — with you today, then uploads can start.
-- Drop 2 products uploaded to Shopify.
-- Measurements from the Fleur dress customer.
-
-============================================================
 05 — Next Steps — Owners & Dates
 - Release 1 start dates confirmed before we close.
-- GA4 completion date confirmed on this call.
-- Press page layout, video spec and BNPL answer — today.
+- Everything owed to you above — press page, video spec, BNPL, GA4 date — today.
 - Localisation links this week, Italian walk first.
 - Recap with owners and dates in Notion and Slack today.
