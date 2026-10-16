@@ -1,0 +1,25 @@
+*MADE Account Alignment (Internal) — Recap | October 16*
+Recording: https://fathom.video/share/H6MfmvprnydbPqvqVe3iDpRHpG8PSTjy
+Agenda: https://docs.google.com/document/d/1nCVizLTFW42492YuNrCZJ42B6hGoZU45w1-FlsULPFE/edit
+
+*AGREED ON THE CALL*
+• *Testing method (Stephen's proposal):* hook rate (3-sec video views ÷ impressions) is the main early metric, since sales and ATC volume are too low to judge on yet. Allan agrees it's the strongest starting point and wants a little more time with it. The bar goes up as signal improves.
+  ◦ Round 1: $25 per version. An ad must clear 400 impressions before it counts.
+  ◦ Winners move to the next round with more budget (around $75, team to confirm).
+• *Tracking:* start from Maya's creative matrix board in Notion as a template.
+  ◦ Statuses: testing, scaling, winner, learning, paused, killed.
+  ◦ Add a batch field (Batch 1, 2, 3) alongside launch date, so winners can be traced to their batch.
+  ◦ Goal: metrics fill in automatically. If Notion can't pull from the ad platforms, the tracker moves to a new tab in Stephen's dashboard.
+• *Next ads:* Madison said new ads should be done by Monday. Some older assets will go into that new batch instead of launching on their own.
+• *Spend:* currently around $55–65/day. Goal is back to $100–125/day. Still to decide: jump straight back or scale up slowly.
+• *Process:* every call gets an agenda doc, shared through Google Drive (by email).
+
+*ACTION ITEMS*
+• Build the creative tracker in Notion (template from Maya's board, batching, metrics filled in automatically). If that's not possible, add it as a tab in the dashboard. — *Stephen* — starting today, update later today
+• Review the creative in Canva/Figma, pick what launches in the next batch (new + some old) and write the hooks. — *Allan*
+• Pull MADE's creative from their Notion into the Canva whiteboard, then write Meta ad copy for the selected ads. — *Maya*
+• Draft the testing SOP in a Google Doc and share it with the team. Finalize once Stephen confirms Notion vs dashboard. — *Allan* (Stephen to confirm the tracker route first)
+• Agree the daily spend target and ramp, then tell Stephen so he can update the dashboard alerts. — *Allan + Shariq*
+• Research buying a phone number and send the findings to Chima to pass on to Alex. — *Shariq → Chima*
+
+Shout if I've missed or misattributed anything.
